@@ -15,10 +15,6 @@
 - CI/CDパイプラインの構築
 - テスト戦略策定と実行基盤の構築
 
-## 主な業務経歴
-
-> 📌 AWSインフラ構築・GitOps実践のための個人開発プロジェクトも実施 → [MSプロジェクトを詳しく見る](#msプロジェクト2024年2025年)
-
 ## スキル
 
 ### 言語
@@ -51,6 +47,10 @@ Datarbricks, Apache Spark
 - **フレームワーク / ライブラリ:** React, React Native, Echo, FastAPI, ASP.NET Core
 - **テスト / 負荷試験:** Playwright, Jest, JMeter, NUnit
 - **その他環境:** Unity
+
+## 主な業務経歴
+
+> 📌 AWSインフラ構築・GitOps実践のための個人開発プロジェクトも実施 → [MSプロジェクトを詳しく見る](#msプロジェクト2024年2025年)
 
 ### Databricks/Sparkを使用したデータ基盤の構築(2026年~現在)
 TBW

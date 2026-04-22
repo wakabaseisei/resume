@@ -19,7 +19,40 @@
 
 > 📌 AWSインフラ構築・GitOps実践のための個人開発プロジェクトも実施 → [MSプロジェクトを詳しく見る](#msプロジェクト2024年2025年)
 
-### (2026年~現在)
+## スキル
+
+### 言語
+Go, Python, TypeScript, C#, Node.js, Rego
+
+### クラウド
+#### AWS
+EKS, ECS (Fargate), Amazon Aurora MySQL, SQS, SNS, SES, S3, ElastiCache for Redis, Lambda, CloudWatch
+
+#### Google Cloud
+GKE, Cloud Run, AlloyDB for PostgreSQL, Cloud Spanner, Cloud SQL, Cloud Datastore, BigQuery, VPC, Cloud Load Balancing, Cloud NAT, Cloud Armor, IAP, Secret Manager, Cloud KMS, Cloud DNS, Cloud Monitoring, Cloud Logging, Cloud Pub/Sub, Cloud Storage, Cloud Functions, Cloud Scheduler, Firebase (Authentication, Firestore, Hosting, Cloud Messaging)
+
+### コンテナ
+Docker, Kubernetes, Helm
+
+### API/スキーマ定義
+gRPC, Connect, Protobuf (Buf), OpenAPI (Swagger), CUE
+
+### CI/CD
+GitHub Actions, ArgoCD, GitLab CI, Jenkins
+
+### データ基盤
+Datarbricks, Apache Spark
+
+### その他
+- **IaC:** Terraform
+- **監視 / オブザーバビリティ:** Datadog, OpenTelemetry
+- **セキュリティ / 品質管理:** OPA (Conftest), Trivy, SOPS, OIDC/JWT
+- **ミドルウェア / データストア:** Apache Kafka, MySQL, Redis
+- **フレームワーク / ライブラリ:** React, React Native, Echo, FastAPI, ASP.NET Core
+- **テスト / 負荷試験:** Playwright, Jest, JMeter, NUnit
+- **その他環境:** Unity
+
+### Databricks/Sparkを使用したデータ基盤の構築(2026年~現在)
 TBW
 
 ### 配送プラットフォームのインフラ構築(2025年~2026年)

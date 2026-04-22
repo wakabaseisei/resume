@@ -26,7 +26,7 @@ Go, Python, TypeScript, C#, Node.js, Rego
 
 ### クラウド
 #### AWS
-EKS, ECS (Fargate), Amazon Aurora MySQL, SQS, SNS, SES, S3, ElastiCache for Redis, Lambda, CloudWatch
+EKS, ECS (Fargate), Amazon Aurora MySQL, IAM, SQS, SNS, SES, S3, ElastiCache for Redis, Lambda, CloudWatch
 
 #### Google Cloud
 GKE, Cloud Run, AlloyDB for PostgreSQL, Cloud Spanner, Cloud SQL, Cloud Datastore, BigQuery, VPC, Cloud Load Balancing, Cloud NAT, Cloud Armor, IAP, Secret Manager, Cloud KMS, Cloud DNS, Cloud Monitoring, Cloud Logging, Cloud Pub/Sub, Cloud Storage, Cloud Functions, Cloud Scheduler, Firebase (Authentication, Firestore, Hosting, Cloud Messaging)
